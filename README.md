@@ -28,13 +28,13 @@ OOP/
 ## Folders
 
 ### C_plus_plus_OOP
-Lessons and labs written in **C++**. Each `Lesson` folder holds the source files (`.cpp` / `.h`) for that week's topic.
+Lessons codes in **C++**. Each `Lesson` folder holds the source files (`.cpp` / `.h`) for that week's topic.
 
 ### Java_OOP
-Lessons and labs written in **Java**, covering OOP concepts using Java syntax and features. Contains `Lesson_10` and `Lesson_11`.
+Lessons codes in **Java**, covering OOP concepts using Java syntax and features. Contains `Lesson_10` and `Lesson_11`.
 
 ### Python_OOP
-Lessons and labs written in **Python**, showing OOP in a more concise, dynamically typed style. Contains a single script, `OOP_PYTHON.py`.
+Lessons codes in **Python**, showing OOP in a more concise, dynamically typed style. Contains a single script, `OOP_PYTHON.py`.
 
 ## Topics Covered
 
