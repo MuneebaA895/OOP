@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP) Lessons
 
-This repository contains my lesson codes for learning **Object-Oriented Programming** in three languages: C++, Java, and Python. Each folder covers the same core OOP ideas in a different language.
+This repository contains my lesson code and lab work for learning **Object-Oriented Programming** in three languages: C++, Java, and Python. Each folder covers the same core OOP ideas in a different language.
 
 ## Repository Structure
 
@@ -28,13 +28,13 @@ OOP/
 ## Folders
 
 ### C_plus_plus_OOP
-Lessons codes in **C++**. Each `Lesson` folder holds the source files (`.cpp` / `.h`) for that week's topic.
+Lesson codes in **C++**. Each `Lesson` folder holds the source files (`.cpp` / `.h`) for that week's topic.
 
 ### Java_OOP
-Lessons codes in **Java**, covering OOP concepts using Java syntax and features. Contains `Lesson_10` and `Lesson_11`.
+Lesson codes in **Java**, covering the same OOP concepts using Java syntax and features. Contains `Lesson_10` and `Lesson_11`.
 
 ### Python_OOP
-Lessons codes in **Python**, showing OOP in a more concise, dynamically typed style. Contains a single script, `OOP_PYTHON.py`.
+Lesson code in **Python**, showing OOP in a more concise, dynamically typed style. Contains a single script, `OOP_PYTHON.py`.
 
 ## Topics Covered
 
@@ -45,7 +45,6 @@ Lessons codes in **Python**, showing OOP in a more concise, dynamically typed st
 - Polymorphism (overloading, overriding, virtual functions)
 - Abstraction (abstract classes and interfaces)
 - Operator overloading
-
 
 ## How to Run
 
@@ -81,8 +80,18 @@ python OOP_PYTHON.py
 git clone https://github.com/MuneebaA895/OOP.git
 ```
 
+## References
+
+  Some examples in this repository are adapted from the following sources:
+- Tony Gaddis, *Starting Out with C++: From Control Structures through Objects*, 9th Edition, Pearson
+- [W3Schools](https://www.w3schools.com/) tutorials
+
+
 ## Author
 
-**Ms Muneeba** ([@MuneebaA895](https://github.com/MuneebaA895))
+Ms Muneeba (@MuneebaA895)
 
-Created as part of my coursework in Object-Oriented Programming.
+Created as part of my coursework in Object-Oriented Programming. This repository is for educational purposes only.
+
+
+
